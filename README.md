@@ -1,6 +1,6 @@
 # client
 
-> A Vue.js project
+> A CRUD project -> Mongo Express VueJs Node
 
 ## Build Setup
 
